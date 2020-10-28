@@ -1,0 +1,40 @@
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\CourseworkSE.exe.config
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\CourseworkSE.exe
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\CourseworkSE.pdb
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\System.Buffers.dll
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\System.Memory.dll
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\System.Text.Json.dll
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\System.ValueTuple.dll
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\System.Buffers.xml
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\System.Memory.xml
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\System.Text.Json.xml
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\bin\Debug\System.ValueTuple.xml
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\Presentation Layer.csprojAssemblyReference.cache
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\ListsWindow.g.cs
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\MainWindow.g.cs
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\ProcessedMessage.g.cs
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\App.g.cs
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\CourseworkSE_MarkupCompile.cache
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\CourseworkSE_MarkupCompile.lref
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\ListsWindow.baml
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\MainWindow.baml
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\ProcessedMessage.baml
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\CourseworkSE.g.resources
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\CourseworkSE.Properties.Resources.resources
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\Presentation Layer.csproj.CopyComplete
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\CourseworkSE.exe
+C:\Users\Valeri\Desktop\CourseworkSE\CourseworkSE\obj\Debug\CourseworkSE.pdb

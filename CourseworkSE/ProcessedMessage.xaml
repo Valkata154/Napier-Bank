@@ -1,0 +1,20 @@
+﻿<Window x:Class="CourseworkSE.ProcessedMessage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseworkSE"
+        mc:Ignorable="d"
+        Closing="Window_Closing"
+        Title="ProcessedMessage" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="senderLabel" FontSize="24" FontWeight="Bold" Content="Sender" HorizontalAlignment="Left" Height="45" Margin="140,10,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBox x:Name="senderTextBox" FontWeight="Normal" BorderThickness="2" BorderBrush="Black" HorizontalAlignment="Left" Height="27" Margin="49,60,0,0" TextWrapping="WrapWithOverflow" VerticalAlignment="Top" Width="293" MaxLength="10"/>
+        <Label x:Name="messageLabel" FontSize="24" FontWeight="Bold" Content="Message ID" HorizontalAlignment="Left" Height="45" Margin="533,10,0,0" VerticalAlignment="Top" Width="162"/>
+        <TextBox x:Name="messageTextBox" FontWeight="Normal" BorderThickness="2" BorderBrush="Black" HorizontalAlignment="Left" Height="27" Margin="442,60,0,0" TextWrapping="WrapWithOverflow" VerticalAlignment="Top" Width="294" MaxLength="10"/>
+        <Label x:Name="subjectLabel" Visibility="Hidden" FontSize="24" FontWeight="Bold" Content="Subject" HorizontalAlignment="Left" Height="45" Margin="342,92,0,0" VerticalAlignment="Top" Width="104"/>
+        <TextBox x:Name="subjectTextBox"  Visibility="Hidden" FontWeight="Normal" BorderThickness="2" BorderBrush="Black" HorizontalAlignment="Left" Height="27" Margin="128,142,0,0" TextWrapping="WrapWithOverflow" VerticalAlignment="Top" Width="517" MaxLength="10"/>
+        <Label x:Name="bodyLabel" FontSize="24" FontWeight="Bold" Content="Body" HorizontalAlignment="Left" Height="45" Margin="353,174,0,0" VerticalAlignment="Top" Width="71"/>
+        <TextBox x:Name="bodyTextBox" FontWeight="Normal" BorderThickness="2" BorderBrush="Black" Margin="128,224,0,10" HorizontalAlignment="Left" TextWrapping="Wrap" Width="517" />
+    </Grid>
+</Window>
